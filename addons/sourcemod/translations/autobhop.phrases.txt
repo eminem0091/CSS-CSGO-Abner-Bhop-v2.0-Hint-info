@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"autobhop_aktivni"
+	{
+		"en" "<font size='7'> </font><br><font color='#007399' size='35'>AutoBhop: </font><font color='#5DE100' size='25'>Activated</font>"
+		"cze" "<font size='7'> </font><br><font color='#007399' size='35'>AutoBhop: </font><font color='#5DE100' size='25'>Aktivní</font>"
+	}
+	
+	"autobhop_neaktivni"
+	{
+		"en" "<font size='7'> </font><br><font color='#007399' size='35'>AutoBhop: </font><font color='#FB000D' size='25'>Deactivated</font>"
+		"cze" "<font size='7'> </font><br><font color='#007399' size='35'>AutoBhop: </font><font color='#FB000D' size='25'>Neaktivní</font>"
+	}
+}
