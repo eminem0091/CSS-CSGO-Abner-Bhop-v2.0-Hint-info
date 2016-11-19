@@ -1,4 +1,4 @@
-# CSS-CSGO-Abner-Bhop-Hint-info
+# CSS-CSGO-Abner-Bhop-v2.0-Hint-info
 Added HINT INFO
 
 HUD INFO picture
