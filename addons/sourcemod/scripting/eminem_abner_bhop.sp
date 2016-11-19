@@ -14,7 +14,7 @@ public Plugin myinfo =
 {
 	name = "[CSS/CS:GO] AbNeR Bunny Hoping",
 	author = "AbNeR_CSS",
-	description = "Auto BHOP",
+	description = "Auto BHOP, MR. EMINEM",
 	version = PLUGIN_VERSION,
 	url = "www.tecnohardclan.com"
 }
